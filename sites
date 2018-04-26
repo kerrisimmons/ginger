@@ -1,0 +1,18 @@
+# ginger
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kerri Simmons</title>
+		<h1 style="font-family:Georgia;font-size:30px;text-align:center"><strong>Kerri Simmons</strong></h1>
+	</head>
+	<body><a href="http://hmpg.net/"><img src="https://az616578.vo.msecnd.net/files/2016/09/29/6361075714654206102074514207_MBar_White_3c_186.jpg"></a>
+	<p style="color:red"> <em>I am a 19 year old female from Eldersburg, Maryland.</em></p>
+	<h1 style="color:purple;font-size:25px;font-family:Papyrus;background-color:yellow">Current Education</h1>
+<!--The following is a list of my current education--><ul><li><strong>Education</strong></li><ul><li>I currently attend the <a href="https://www.umd.edu/"> University of Maryland, College Park.</a></li><ul><li>I intend to graduate in Spring 2020</li><li>My major is marketing.</li></ul></ul></ul> 
+    <h3 style="color:orange;font-size:32px;font-family:Arial;background-color:purple">Miscellaneous Facts</h3>
+    <!--The following is a list of my interests--><ul><li><strong>Interests</strong><ul><li>Sports</li><li>Running</li><li>Art: drawing, painting</li></li></ul>
+    <!--The following is a list of my favorite places I have traveled--> <ul><li><strong>Favorite Places I have traveled</strong><ol><li><a href="https://www.nps.gov/romo/index.htm">Colorado</a></li><li>Hawaii</li><li>Jamaica</li></ol></li></ul>
+    <!--The following is a list of schools I have attended--><ul><li><strong>Schools I have attended</strong><ol><li>Carrolltowne Elementary School</li><li>Oklahoma Road Middle School</li><li><a href="https://www.carrollk12.org/schools/high/lhs">Liberty High School</a></li><li>University of Maryland, College Park</li></ol></li></ul>
+    <h2 style="color:green;background-color:black;font-family:helvetica;font-size:50px">Good Quotes</h2>
+    <!--The following is a list of my favorite quotes--><ul><li><strong>Favorite Quotes</strong><ul><li>"Anything unrelated to elephants is irrelephant."</li><li>"Always remember that you're braver than you believe, stronger than you seem, and smarter than you think."</li><li>"If you do not ask the answer will always be no."</li></li></ul></body>
+</html>
